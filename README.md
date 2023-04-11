@@ -1,11 +1,14 @@
-<h1 align="center">Hola 👋, soy Diego Estrada</h1>
-- 🔭 Actualmente trabajo en [Mirgor S.A](https://mirgor.com)
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/3owypkQpls111dAQEM/giphy.gif" width="300" />
+</div>
+     
+<h1 align="center">Hi 👋, I'm Diego Estrada</h1>
+<h3 align="center">As a graduate from the National Technological University of Tierra del Fuego from Argentina, I specialize in software development and have extensive experience in effectively integrating into new work teams. My approach is characterized by applying logical and scientific criteria in decision-making, both in the workplace and in everyday life, which allows me to contribute significantly to the success of any project. I am passionate about challenging environments, where I can put my skills to the test and continuously learn</h3>
 
-- 👨‍💻Mir perfil de Linkedln es [https://www.linkedin.com/in/diego-estrada-ba4281a3/](https://www.linkedin.com/in/diego-estrada-ba4281a3/)
+- 🔭 Currently, I work at [Mirgor S.A](https://mirgor.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/casescas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="casescas" height="30" width="40" /></a>
+- 👨‍💻My LinkedIn profile is [https://www.linkedin.com/in/diego-estrada-ba4281a3/](https://www.linkedin.com/in/diego-estrada-ba4281a3/)
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
